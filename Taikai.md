@@ -8,6 +8,6 @@
 
 ## 公開メモ
 
+- 公開URL: https://remaining-body.lolipop-now.app
 - 種別: Vite / WebGL / MediaPipeの静的Webアプリ
 - 体験にはカメラ許可が必要です
-
